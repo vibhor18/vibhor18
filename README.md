@@ -1,12 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/4b/e2/6f/4be26f78403b18f152f648c6ce4553bc.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm VIBHOR MECHU</h1>
-<h3 align="center">I am a MS CS student at New York University passionate about AI/ML, Full Stack.</h3>
+<h3 align="center">I am a MS CS student at New York University, passionate about Machine Learning, Deep Learning, Big Data technologies and software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhor18&label=Profile%20views&color=0e75b6&style=flat" alt="vibhor18" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mechu_vibhor" target="blank"><img src="https://img.shields.io/twitter/follow/mechu_vibhor?logo=twitter&style=for-the-badge" alt="mechu_vibhor" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning more about **Deep Learning**, focusing on **Natural Language Processing (NLP)**.
 
 - 📫 How to reach me **vibhormechu18@gmail.com / vm2491@nyu.edu**
 
